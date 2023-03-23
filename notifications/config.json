@@ -1,0 +1,17 @@
+{
+  "base": {
+    "logo": "",
+    "project": "${JOB_BASE_NAME}",
+    "environment": "testing",
+    "comment": "@andrechizh8 here some reports",
+    "reportLink": "${BUILD_URL}",
+    "language": "en",
+    "allureFolder": "allure-report/",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "6001417635:AAGKhZ6g9RI61FzEASo9F_V5lG_Bi1xW0D8",
+    "chat": "1446969809",
+    "replyTo": ""
+  }
+}
