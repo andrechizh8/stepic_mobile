@@ -36,7 +36,7 @@ class TestMobile:
     @allure.feature('MOBILE')
     @allure.story('Unsuccessful Login')
     @allure.severity(Severity.CRITICAL)
-    def test_login_with_rong_email(self):
+    def test_login_with_wrong_email(self):
         # GIVEN
         with allure.step("Open main page"):
             app.given_opened()

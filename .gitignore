@@ -4,3 +4,5 @@ config.local.env
 __pycache__/
 allure-results/
 .idea
+.pytest_cache
+allure-results
