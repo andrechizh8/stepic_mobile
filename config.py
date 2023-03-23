@@ -31,7 +31,7 @@ class Settings(pydantic.BaseSettings):
     remote_url: str = 'http://127.0.0.1:4723/wd/hub'
 
     # --- Selene ---
-    timeout = 20
+    timeout = 60
 
     @property
     def run_on_browserstack(self):
