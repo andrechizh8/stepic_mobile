@@ -1,0 +1,6 @@
+.env
+config.browserstack.env
+config.local.env
+__pycache__/
+allure-results/
+.idea
