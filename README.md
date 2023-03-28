@@ -53,7 +53,7 @@
  ### Запуск в Jenkins : [JOB](https://jenkins.autotests.cloud/job/STEPIK/)
  
  Нажать на кнопку Собрать сейчас
-![Альтернативный текст]([https://github.com/andrechizh8/ui_dns/blob/main/readme%20files/dns1.png](https://github.com/andrechizh8/stepik_mobile/blob/main/readme%20files/stepik1.png))
+![Альтернативный текст](https://github.com/andrechizh8/stepik_mobile/blob/main/readme%20files/stepik1.png)
 
 После сборки есть возможность посмотреть отчет с различными приложениями: 
 
