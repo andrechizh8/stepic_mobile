@@ -61,6 +61,8 @@
 
 ![Альтернативный текст](https://github.com/andrechizh8/stepik_mobile/blob/main/readme%20files/stepik2.png)
 
+Ссылка на Allure Report : [Report](https://jenkins.autotests.cloud/job/STEPIK/44/allure/)
+
 
 Кроме того, в проекте реализована возможность просмотр отчета в  Allure TestOps : 
 
