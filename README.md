@@ -22,7 +22,7 @@
 
     4. В командной строке Idea прописать :
 
-        pip unstall poetry
+        pip install poetry
         poetry lock
         poetry install
         env -S context="local" pytest .
